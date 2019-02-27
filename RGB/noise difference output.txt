@@ -1,0 +1,160 @@
+Red Channel Noise Different is:  255
+Time is:     Tuesday, April 25, 20175:42:52 PM
+
+
+
+Green Channel Noise Different is:  255
+Time is:     Tuesday, April 25, 20175:42:52 PM
+
+
+
+Blue Channel Noise Different is:  255
+Time is:     Tuesday, April 25, 20175:42:52 PM
+
+
+
+All Channel Noise Different is:  0
+Time is:     Tuesday, April 25, 20175:42:52 PM
+
+
+
+Red Channel Filtered Different is:  255
+Time is:     Tuesday, April 25, 20175:42:52 PM
+
+
+
+Green Channel Filtered Different is:  255
+Time is:     Tuesday, April 25, 20175:42:52 PM
+
+
+
+Blue Channel Filtered Different is:  255
+Time is:     Tuesday, April 25, 20175:42:52 PM
+
+
+
+All Channel Filtered Different is:  3787
+Time is:     Tuesday, April 25, 20175:42:52 PM
+
+
+
+Red Channel Noise Different is:  3939
+Time is:     Tuesday, April 25, 20175:45:59 PM
+
+
+
+Green Channel Noise Different is:  71
+Time is:     Tuesday, April 25, 20175:45:59 PM
+
+
+
+Blue Channel Noise Different is:  4015
+Time is:     Tuesday, April 25, 20175:45:59 PM
+
+
+
+All Channel Noise Different is:  0
+Time is:     Tuesday, April 25, 20175:45:59 PM
+
+
+
+Red Channel Filtered Different is:  4216
+Time is:     Tuesday, April 25, 20175:45:59 PM
+
+
+
+Green Channel Filtered Different is:  4342
+Time is:     Tuesday, April 25, 20175:45:59 PM
+
+
+
+Blue Channel Filtered Different is:  4089
+Time is:     Tuesday, April 25, 20175:45:59 PM
+
+
+
+All Channel Filtered Different is:  4420
+Time is:     Tuesday, April 25, 20175:45:59 PM
+
+
+
+Red Channel Noise Different is:  4572
+Time is:     Tuesday, April 25, 20175:46:13 PM
+
+
+
+Green Channel Noise Different is:  142
+Time is:     Tuesday, April 25, 20175:46:13 PM
+
+
+
+Blue Channel Noise Different is:  4648
+Time is:     Tuesday, April 25, 20175:46:13 PM
+
+
+
+All Channel Noise Different is:  0
+Time is:     Tuesday, April 25, 20175:46:13 PM
+
+
+
+Red Channel Filtered Different is:  4848
+Time is:     Tuesday, April 25, 20175:46:13 PM
+
+
+
+Green Channel Filtered Different is:  4974
+Time is:     Tuesday, April 25, 20175:46:13 PM
+
+
+
+Blue Channel Filtered Different is:  4723
+Time is:     Tuesday, April 25, 20175:46:13 PM
+
+
+
+All Channel Filtered Different is:  5052
+Time is:     Tuesday, April 25, 20175:46:13 PM
+
+
+
+Red Channel Noise Different is:  5203
+Time is:     Tuesday, April 25, 20175:46:25 PM
+
+
+
+Green Channel Noise Different is:  214
+Time is:     Tuesday, April 25, 20175:46:25 PM
+
+
+
+Blue Channel Noise Different is:  5279
+Time is:     Tuesday, April 25, 20175:46:25 PM
+
+
+
+All Channel Noise Different is:  0
+Time is:     Tuesday, April 25, 20175:46:25 PM
+
+
+
+Red Channel Filtered Different is:  5480
+Time is:     Tuesday, April 25, 20175:46:25 PM
+
+
+
+Green Channel Filtered Different is:  5606
+Time is:     Tuesday, April 25, 20175:46:25 PM
+
+
+
+Blue Channel Filtered Different is:  5355
+Time is:     Tuesday, April 25, 20175:46:25 PM
+
+
+
+All Channel Filtered Different is:  5684
+Time is:     Tuesday, April 25, 20175:46:25 PM
+
+
+
